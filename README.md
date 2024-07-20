@@ -35,5 +35,5 @@ To improve Vrinda Store's sales:
 
 ## Usage
 
-The Excel file `Vrinda_Store_Sales_Report.xlsx` contains the sales data and the dashboard created using Excel. It offers visualizations and insights based on the aforementioned objectives.
+The Excel file `Vrinda Store Data Analysis.xlsx` contains the sales data and the dashboard created using Excel. It offers visualizations and insights based on the aforementioned objectives.
 

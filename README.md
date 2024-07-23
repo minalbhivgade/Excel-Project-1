@@ -1,5 +1,5 @@
 
-# Vrinda Store Sales Report
+# Vrinda Store Sales Report-2022
 
 This repository contains an Excel-based dashboard for analyzing the sales data of Vrinda Stores. The dashboard was built to answer specific questions and derive insights to help in understanding customer behavior and improving sales strategies.
 
